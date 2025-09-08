@@ -1,0 +1,5 @@
+Studies/*
+adq_python/*.csv
+*.pyc
+adq_python/*
+!adq_python/OpenClosePort.py
