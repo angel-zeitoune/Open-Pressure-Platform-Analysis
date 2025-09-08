@@ -7,7 +7,7 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {},
     ".NETCoreApp,Version=v8.0/win-x64": {
-      "ForcePlatform/0.14": {
+      "ForcePlatform/1.0.0": {
         "dependencies": {
           "ScottPlot.WPF": "5.0.54",
           "SkiaSharp.Views.WPF": "2.88.9",
@@ -1307,7 +1307,7 @@
     }
   },
   "libraries": {
-    "ForcePlatform/0.14": {
+    "ForcePlatform/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
